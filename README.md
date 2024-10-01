@@ -46,3 +46,6 @@ Simply hover over the images to see them in color along with the captions. The g
 
 ![image](https://github.com/user-attachments/assets/d6a970b9-0d50-472a-b4e0-28760e40a02a)
 
+## Acknowledgments
+
+- Huge thanks to **Love Babbar** sir for his guidance and teaching style that made learning this project a fun experience.
