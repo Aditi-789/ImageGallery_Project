@@ -34,7 +34,7 @@ To run this project locally:
 
 ## Deployed Version
 
-You can view the live project [here](#) *https://aditi-789.github.io/ImageGallery_Project/*.
+You can view the live project [here](https://aditi-789.github.io/ImageGallery_Project/)
 
 ## Usage
 
